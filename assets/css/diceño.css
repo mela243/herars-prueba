@@ -1,0 +1,20 @@
+img { 
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+
+}
+
+h1, h2, p {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+body{
+    background-image: url("https://www.creativefabrica.com/wp-content/uploads/2022/05/17/pastel-aesthetic-background-Graphics-30684243-1.jpg");
+    background-repeat: no-repeat; 
+    background-position: center center; 
+     background-size: cover;
+     text-align: center;
+    font-size: 2em;
+}
